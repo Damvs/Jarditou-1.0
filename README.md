@@ -1,1 +1,1 @@
-# jarditou-1.0
+# Jarditou-1.0
